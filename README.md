@@ -1,4 +1,8 @@
 ## Installation
+
+https://github.com/user-attachments/assets/dd4180b5-272a-4ca4-b202-6aae12b7ddb3
+
+
 - Before using this script, make sure you have ETH faucet on Plume testnet
 - Open Github Codespace/Gitpod/Any Other Terminal
 - Paste this below command, also before pasting command, you should verify these codes in `Plume.sh` file
