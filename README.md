@@ -3,7 +3,7 @@
 - Open Github Codespace/Gitpod/Any Other Terminal
 - Paste this below command, also before pasting command, you should verify these codes in `Plume.sh` file
 ```bash
-curl -O https://raw.githubusercontent.com/dxzenith/Plume-Network-Bot/main/Plume.sh && touch privatekeys.txt && nano privatekeys.txt
+wget https://raw.githubusercontent.com/dxzenith/Plume-Network-Bot/main/Plume.sh && touch privatekeys.txt && nano privatekeys.txt
 ```
 - You need to import your private Key here (1 Private key in each line)
 - Now press `Ctrl+X` then `Y` and then press Enter
