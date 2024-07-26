@@ -17,3 +17,5 @@ wget https://raw.githubusercontent.com/dxzenith/Plume-Network-Bot/main/Plume.sh 
 chmod +x Plume.sh && ./Plume.sh
 ```
 - Done , don't forget to follow me on X : [@ZunXBT](https://x.com/ZunXBT)
+
+-So cool
